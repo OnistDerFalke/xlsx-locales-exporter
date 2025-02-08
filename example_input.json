@@ -1,0 +1,50 @@
+{
+    "en": {
+        "start": "start",
+        "options": "options",
+        "credits": "credits",
+        "exit": "exit"
+    },
+    "pl": {
+        "start": "start",
+        "options": "opcje",
+        "credits": "napisy",
+        "exit": "wyjście"
+    },
+    "ru": {
+        "start": "старт",
+        "options": "опции",
+        "credits": "титры",
+        "exit": "выход"
+    },
+    "fr": {
+        "start": "démarrer",
+        "options": "options",
+        "credits": "crédits",
+        "exit": "quitter"
+    },
+    "cs": {
+        "start": "začít",
+        "options": "možnosti",
+        "credits": "titulky",
+        "exit": "výstup"
+    },
+    "ct": {
+        "start": "開始",
+        "options": "選項",
+        "credits": "片尾字幕",
+        "exit": "退出"
+    },
+    "jp": {
+        "start": "시작",
+        "options": "옵션",
+        "credits": "크레딧",
+        "exit": "終了"
+    },
+    "kr": {
+        "start": "시작",
+        "options": "옵션",
+        "credits": "크레딧",
+        "exit": "종료"
+    }
+}
